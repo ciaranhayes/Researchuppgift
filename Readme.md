@@ -54,7 +54,32 @@
 - För att se vad som finns för branches:
   >**git** <span style="color:purple">branch</span>
 
-- 
+- För att skapa en branch:
+  >**git** <span style="color:purple">branch</span> branchname
+
+- För att byta till en branch:
+  >**git** <span style="color:red">switch</span> branchname
+
+- För att kolla status:
+  >**git** <span style="color:purple">status</span> 
+
+- För att logga
+  >**git** <span style="color:green">log</span>
+
+## Vad jag har lärt mig på egen hand 
+
+- Set a name
+  >**git** config --global user.name “[firstname lastname]”
+
+- Set an email
+  >**git** config --global user.name “[valid email]”
+
+
+### Något om Github och Markdown
+
+You can imbed HTML commands into Markdown to get features not otherwise offered in Markdown - such as colour as I have done above. 
+
+You can link your Github to Vscode to do the commit in a window rather than having to do it in the terminal to do such things as commiting etc.
 
 
 
